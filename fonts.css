@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'AvenirLTPro-Heavy';
+  src: url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AvenirLTPro-Heavy.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'AvenirLTPro-Medium';
+  src: url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AvenirLTPro-Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'AvenirLTPro-Roman';
+  src: url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AvenirLTPro-Roman.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Avenir LT W05_35 Light';
+  src: url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AvenirLT-W05_35-Light.woff2') format('woff2'),
+      url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AvenirLT-W05_35-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir LT W05_45 Book';
+  src: url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AvenirLT-W05_45-Book.woff2') format('woff2'),
+      url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AvenirLT-W05_45-Book.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'FuturaNowForAcura-CondXBlk';
+  src: url(' https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/FuturaNowForAcura-CondXBlk.woff2') format('woff2'),
+      url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/FuturaNowForAcura-CondXBlk.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'AcuraBespokeLight';
+  src: url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AcuraBespoke-Light.woff2') format('woff2'),
+      url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AcuraBespoke-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'AcuraBespokeRegular';
+  src: url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AcuraBespoke-Regular.woff2') format('woff2'),
+      url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AcuraBespoke-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'AcuraBespokeBold';
+  src: url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AcuraBespoke-Bold.woff2') format('woff2'),
+      url('https://raw.githubusercontent.com/ChrystianAulaWebDesign/TesteFonte/main/AcuraBespoke-Bold.woff') format('woff');
+}
